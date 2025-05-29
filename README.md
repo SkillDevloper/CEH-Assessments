@@ -8,7 +8,8 @@ This repository contains weekly assessment answers and lab setups as I progress 
 ## 📚 Contents
 
 - [Week 01 – Introduction to Cybersecurity + Lab Setup](CEH-Assessments-Week-01/)
-- [Week 02](CEH-Assessments-Week-02/) (Coming Soon)
+- [Week 02 - OSINT Investigation + IoT Devices via Shodan](CEH-Assessments-Week-02/)
+- [Week 03](CEH-Assessments-Week-03/) (Coming Soon)
 
 Each folder includes:
 - Conceptual answers (Markdown file)
