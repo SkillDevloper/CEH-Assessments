@@ -21,23 +21,23 @@
 
 ### ✅ Q3: Host Discovery using Nmap (`150.1.7.0/24`)
 - **ARP Ping Scan**  
-![ARP Scan](screenshots/arp-scan.png)
+![ARP Scan](https://github.com/SkillDevloper/CEH-Assessments/blob/main/CEH-Assessments-Week-03/screenshots/Screenshot%202025-04-06%20122706.png?raw=true)
 
 - **UDP Ping Scan**  
-![UDP Scan](screenshots/udp-scan.png)
+![UDP Scan](https://github.com/SkillDevloper/CEH-Assessments/blob/main/CEH-Assessments-Week-03/screenshots/Screenshot%202025-04-06%20123119.png?raw=true)
 
 - **ICMP Echo Ping Sweep**  
-![ICMP Scan](screenshots/icmp-scan.png)
+![ICMP Scan](https://github.com/SkillDevloper/CEH-Assessments/blob/main/CEH-Assessments-Week-03/screenshots/Screenshot%202025-04-06%20123500.png?raw=true)
 
 ---
 
 ### ✅ Q4: Port Scanning (with Host Discovery Disabled)
 
 - **Metasploitable Linux – Port + Version Scan**  
-![Linux Ports](screenshots/metasploitable-portscan.png)
+![Linux Ports](https://github.com/SkillDevloper/CEH-Assessments/blob/main/CEH-Assessments-Week-03/screenshots/Screenshot%202025-04-06%20125445.png?raw=true)
 
 - **Windows 10 – Port + Version Scan**  
-![Windows Ports](screenshots/windows10-portscan.png)
+![Windows Ports](https://github.com/SkillDevloper/CEH-Assessments/blob/main/CEH-Assessments-Week-03/screenshots/Screenshot%202025-04-06%20134416.png?raw=true)
 
 ---
 
