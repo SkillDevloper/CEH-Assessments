@@ -55,5 +55,3 @@ You’ve been hired as a **Cyber Security Architect** at Ooredoo Telecom. Your r
 
 ## ✅ Conclusion
 > Defense-in-Depth ensures no **single point of failure**. Even if one security control is breached, others stand guard. A must-have approach in today’s advanced threat landscape.
-
-📎 *Document file is included in this folder: `Security_Architecture_Document.md`*
