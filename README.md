@@ -10,8 +10,9 @@ This repository contains weekly assessment answers and lab setups as I progress 
 - [Week 01 – Introduction to Cybersecurity + Lab Setup](CEH-Assessments-Week-01/)
 - [Week 02 - OSINT Investigation + IoT Devices via Shodan](CEH-Assessments-Week-02/)
 - [Week 03 - Network Scanning & Nmap Lab](CEH-Assessments-Week-03/)
-- [Week 04 - Security Architecture Document ](CEH-Assessments-Week-04/)
-- [Week 05 ](CEH-Assessments-Week-05/) (Coming Soon)
+- [Week 04 - Security Architecture Document](CEH-Assessments-Week-04/)
+- [Week 05 - SNMP Enumeration using Nmap & Cisco Router on EVE-NG](CEH-Assessments-Week-05/)
+- [Week 06 ](CEH-Assessments-Week-65/) (Coming Soon)
 
 Each folder includes:
 - Conceptual answers (Markdown file)
