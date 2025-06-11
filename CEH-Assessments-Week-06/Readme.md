@@ -49,17 +49,27 @@ This exercise focused on identifying, analyzing, and reporting security vulnerab
 
 ---
 
-## ⚠️ Disclaimer
-
-This assessment was carried out **strictly for educational purposes** as part of the **CEH v13 learning program**. All scans were conducted on authorized or intentionally vulnerable environments only. No unauthorized systems were targeted or harmed.
-
----
-
 ## 📎 Resources
 
 - [Nessus - Official Website](https://www.tenable.com/products/nessus)
 - [Acunetix - Official Website](https://www.acunetix.com/)
 - [Test Target - VulnWeb](http://testphp.vulnweb.com/)
+
+---
+
+## Screenshort
+#### Installing Page
+![Installing](https://github.com/SkillDevloper/CEH-Assessments/blob/main/CEH-Assessments-Week-06/screenshots/Screenshot%202025-04-21%20185135.png?raw=true)
+#### Login Web Page
+![LoginPage](https://github.com/SkillDevloper/CEH-Assessments/blob/main/CEH-Assessments-Week-06/screenshots/Screenshot%202025-04-21%20185029.png?raw=true)
+#### Vulnerabilities
+![vulnerabilities](https://github.com/SkillDevloper/CEH-Assessments/blob/main/CEH-Assessments-Week-06/screenshots/Screenshot%202025-04-22%20154306.png?raw=true)
+
+---
+
+## ⚠️ Disclaimer
+
+This assessment was carried out **strictly for educational purposes** as part of the **CEH v13 learning program**. All scans were conducted on authorized or intentionally vulnerable environments only. No unauthorized systems were targeted or harmed.
 
 ---
 
