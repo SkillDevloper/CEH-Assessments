@@ -12,7 +12,8 @@ This repository contains weekly assessment answers and lab setups as I progress 
 - [Week 03 - Network Scanning & Nmap Lab](CEH-Assessments-Week-03/)
 - [Week 04 - Security Architecture Document](CEH-Assessments-Week-04/)
 - [Week 05 - SNMP Enumeration using Nmap & Cisco Router on EVE-NG](CEH-Assessments-Week-05/)
-- [Week 06 ](CEH-Assessments-Week-65/) (Coming Soon)
+- [Week 06 - Vulnerability Assessment using Nessus & Acunetix](CEH-Assessments-Week-6/)
+- [Week 07](CEH-Assessments-Week-7/) (Coming Soon)
 
 Each folder includes:
 - Conceptual answers (Markdown file)
