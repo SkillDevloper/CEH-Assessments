@@ -70,10 +70,3 @@ This exercise focused on identifying, analyzing, and reporting security vulnerab
 ## ⚠️ Disclaimer
 
 This assessment was carried out **strictly for educational purposes** as part of the **CEH v13 learning program**. All scans were conducted on authorized or intentionally vulnerable environments only. No unauthorized systems were targeted or harmed.
-
----
-
-## 📌 Tags
-
-`#Nessus #Acunetix #VulnerabilityAssessment #EthicalHacking #CEHv13 #WebAppSecurity #NetworkSecurity #InfoSec`
-
