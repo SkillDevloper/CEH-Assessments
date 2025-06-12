@@ -49,18 +49,3 @@ Each week includes:
 I’m **Daniyal Shahid**, a cybersecurity enthusiast pursuing CEH v13 and building expertise in ethical hacking and penetration testing.  
 📍 Currently learning & sharing hands-on experience with tools and techniques used by real-world professionals.  
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/daniyal-shahid-249a3b283/)
-
----
-
-## ⭐️ Support & Feedback
-
-If you find this helpful, feel free to:
-- ⭐ Star the repo
-- 🛠 Submit issues or suggestions
-- 🔁 Fork and explore your own CEH journey!
-
----
-
-## 🔖 Tags / SEO Keywords
-
-`CEH v13` • `Certified Ethical Hacker Portfolio` • `Ethical Hacking Labs` • `Cybersecurity Projects` • `Nmap` • `Nessus` • `Acunetix` • `Penetration Testing` • `Vulnerability Scanning` • `Pakistan Cyber Talents`
