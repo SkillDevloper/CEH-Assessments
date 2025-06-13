@@ -88,6 +88,8 @@ john --incremental --format=raw-sha256 inc.txt
 All lab screenshots, hash outputs, and result logs are available in this folder:  
 📁 [`CEH-Assessments-Week-07/screenshots`](https://github.com/SkillDevloper/CEH-Assessments/tree/main/CEH-Assessments-Week-07/screenshots)
 
+![Wordlist Mode](https://github.com/SkillDevloper/CEH-Assessments/blob/main/CEH-Assessments-Week-07/screenshots/Wordlist%20Mode.png?raw=true)
+
 ---
 
 ## ⚠️ Disclaimer
