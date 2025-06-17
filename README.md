@@ -18,7 +18,8 @@ This repository contains hands-on lab exercises, conceptual answers, and reports
 | ✅ [Week 05](CEH-Assessments-Week-05/) | *SNMP Enumeration on Cisco Router (EVE-NG Lab)* |
 | ✅ [Week 06](CEH-Assessments-Week-06/) | *Vulnerability Assessment using Nessus & Acunetix* |
 | ✅ [Week 07](CEH-Assessments-Week-07/) | *System Hacking Techniques & Password Cracking with John the Ripper* |
-| 🔜 [Week 08](CEH-Assessments-Week-8/) | *Coming Soon...* |
+| ✅ [Week 08](CEH-Assessments-Week-08/) | *Static Malware Analysis & File Type Identification* |
+| 🔜 [Week 09](CEH-Assessments-Week-09/) | *Coming Soon...* |
 
 Each week includes:
 - ✅ Conceptual answers (Markdown files)
