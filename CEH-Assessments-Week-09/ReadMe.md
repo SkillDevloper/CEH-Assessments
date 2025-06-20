@@ -58,3 +58,9 @@ This repository contains my Week 9 Cybersecurity assessment focused on **Stegano
 **This lab is strictly for educational purposes.** Never use steganographic techniques for unauthorized or malicious activities.
 
 ---
+
+#### Kali Linux Steghide Tool
+![Kali Linux Steghide Tool.png](https://github.com/SkillDevloper/CEH-Assessments/blob/main/CEH-Assessments-Week-09/screenshots/Kali%20Linux%20(Steghide%20Tool).png?raw=true)
+
+#### unhide massage.txt file in video audio using DeepSound or OpenPuff
+![unhide massage.txt file in video audio using DeepSound or OpenPuff](https://github.com/SkillDevloper/CEH-Assessments/blob/main/CEH-Assessments-Week-09/screenshots/Windows%20(unhide%20massage.txt%20file%20in%20video%20audio%20using%20DeepSound%20or%20OpenPuff).png?raw=true)
