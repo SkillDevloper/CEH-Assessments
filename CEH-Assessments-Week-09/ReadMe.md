@@ -3,7 +3,7 @@
 
 This repository contains my Week 9 Cybersecurity assessment focused on **Steganography techniques** used to hide and extract secret data from different media formats.
 
-![Steganography](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Steganography_illustration.png/800px-Steganography_illustration.png)
+![Steganography](https://th.bing.com/th/id/R.0c5997f4e7175af8642b7859cbd04f43?rik=qrMrTY8qHrIYKg&pid=ImgRaw&r=0)
 
 ---
 
